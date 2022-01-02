@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948361309246",
+    "project_id": "chat-app-c2e49",
+    "storage_bucket": "chat-app-c2e49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948361309246:android:148eaea0d497b7cf3b756f",
+        "android_client_info": {
+          "package_name": "com.creativenour.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948361309246-r41im8g0ipfhqul03c9lcqnu0sj1tauj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jjTfVqCwrLlkxsKlUXKy9BJjqnlpujk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948361309246-r41im8g0ipfhqul03c9lcqnu0sj1tauj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
